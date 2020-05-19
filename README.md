@@ -15,7 +15,7 @@
   </p>
 
   <p>Thank you for trying _PLAN_NAME_. We hope you’re enjoying your membership. As a reminder, your free trial ends on _EXPIRATION_DATE_. Please note that your payment method will automatically be charged the applicable monthly subscription until you
-    cancel.
+    cancel.</p>
 
 
   <p>We hope you’ll continue to enjoy the product. </p>
