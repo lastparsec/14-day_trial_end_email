@@ -47,4 +47,6 @@
     <font size="-1">Beans Routes by One Hundred Feet, Inc, 248 Homer Ave, Palo Alto, California, United States
       General Enquiries: 650-353-5014</font>
   </p>
+</body>
 
+</html>
