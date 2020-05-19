@@ -39,7 +39,7 @@
   </p>
   <p>
     <font size="-1">Not satisfied with your trial experience? You can <a href="https://www.beansroute.ai/3pl-console#">cancel from your accounts page</a> by clicking the "Cancel Subscription" text. Or contact us at <a
-        href="mailto:support@bean.ai">support@bean.ai</a>.</p>
+        href="mailto:support@bean.ai">support@bean.ai</a>.</font></p>
   <p>
     <font size="-1">© 2020 One Hundred Feet, inc. All rights reserved. Various trademarks held by their respective owners.</font>
   </p>
