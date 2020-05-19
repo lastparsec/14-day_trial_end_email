@@ -9,8 +9,7 @@
 
 <body>
   <img src="https://www.beansroute.ai/assets/logo.png" width="75" height="75" border="0" alt="Beans Route icon">
-  <br>
-  <br>
+  <h3></h3>
   <br>
   <p>Hi _PERSON_,
   </p>
